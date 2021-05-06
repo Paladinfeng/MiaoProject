@@ -5,6 +5,10 @@
 
 当初买 Apple TV 主要是看 Youtube 和 Netflix，想看 B 站我也没找到其他的渠道，如果要看 B 站就只能切到 Android TV 那边，后来 Android TV 上弹幕版本的 B 站也不更新了，也没办法选 4K 的画质，最后迫于无奈只能自己写一个😭，真正的用爱发电了
 
+### 使用说明
+**[Guide](https://github.com/Paladinfeng/MiaoProject/blob/master/HOW-TO-USE.md)**
+
+
 ### 目前主要功能已经开发完成
 - 首页推荐
 - 热门（这块儿的 API 是从云视听那边抓来的，顺序可能和手机版不一样）

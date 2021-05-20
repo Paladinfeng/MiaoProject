@@ -1,3 +1,6 @@
+# Miao Project Build 7 Update Notes
+- 新增操作提示
+
 # Miao Project Build 6 Update Notes
 - 不完美适配 AirPlay，播放过程中切换可能会导致声画不同步
 - 未登录状态下允许修改播放器设置

@@ -1,3 +1,6 @@
+# Miao Project Build 8 Update Notes
+- 新增「设置 - 首选分辨率」
+
 # Miao Project Build 7 Update Notes
 - 新增操作提示
 

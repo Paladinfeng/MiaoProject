@@ -1,4 +1,4 @@
-# Miao Project Issus
+# Miao Project Issues
 > 本仓库为收集 Miao Project 在使用过程中遇到的问题
 
 ## Miao Project 为 Bilibili 在 tvOS 上的第三方的客户端

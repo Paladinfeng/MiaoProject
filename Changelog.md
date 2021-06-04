@@ -1,3 +1,8 @@
+# Miao Project Build 9 Update Notes
+- 新增「设置 - 弹幕透明度」
+- 新增「设置 - 弹幕字号」
+- 修复无历史记录时报错的问题
+
 # Miao Project Build 8 Update Notes
 - 新增「设置 - 首选分辨率」
 

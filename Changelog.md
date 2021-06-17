@@ -1,3 +1,6 @@
+# Miao Project Build 11 Update Notes
+- 修复了部分用户播放视频导致应用崩溃的问题
+
 # Miao Project Build 10 Update Notes
 - 支持 tvOS 原生播放器
 - 根据网络带宽自动选择分辨率

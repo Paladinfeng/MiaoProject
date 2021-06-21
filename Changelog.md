@@ -1,3 +1,11 @@
+# Miao Project Build 12 Update Notes
+- 支持视频资源切片
+- 支持中文系统 UI
+- 恢复「继续播放」功能
+- 修复了快进等待时间过长的问题
+- 修复了电影级长视频播放中出现崩溃的问题
+- 修复了HLS自动切换分辨率过程中，出现视频重置的情况
+
 # Miao Project Build 11 Update Notes
 - 修复了部分用户播放视频导致应用崩溃的问题
 

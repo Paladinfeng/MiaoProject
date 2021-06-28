@@ -1,3 +1,9 @@
+# Miao Project Build 13 Update Notes
+- 新增 UGC 视频的点赞、投币、收藏操作
+- 新增「视频详情页、UP主详情页」关注UP主的功能
+- 新增查看「我的关注」列表
+- 修复搜索结果中，电影无法点击的问题
+
 # Miao Project Build 12 Update Notes
 - 支持视频资源切片
 - 支持中文系统 UI

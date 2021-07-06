@@ -1,3 +1,10 @@
+# Miao Project Build 14 Update Notes
+- 更新用户授权机制（番剧相关）
+- 修复了部分番剧不能正常播放的问题
+- 修复了部分用户播放视频直接崩溃的问题
+- 动态和UP主详情页显示投稿时间
+- 注：本次更新后，需要用户重新登录
+
 # Miao Project Build 13 Update Notes
 - 新增 UGC 视频的点赞、投币、收藏操作
 - 新增「视频详情页、UP主详情页」关注UP主的功能

@@ -1,3 +1,8 @@
+# Miao Project Build 15 Update Notes
+- 更新用户 Token 刷新机制
+- 修复了视频第一秒弹幕会多次出现在屏幕的问题
+- 集成 Flurry 收集崩溃信息
+
 # Miao Project Build 14 Update Notes
 - 更新用户授权机制（番剧相关）
 - 修复了部分番剧不能正常播放的问题

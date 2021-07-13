@@ -1,3 +1,7 @@
+# Miao Project Build 16 Update Notes
+- 修复弹幕属性更新导致的解析错误
+- 修复部分用户点击播放时，解析SIDX出错导致的崩溃问题
+
 # Miao Project Build 15 Update Notes
 - 更新用户 Token 刷新机制
 - 修复了视频第一秒弹幕会多次出现在屏幕的问题

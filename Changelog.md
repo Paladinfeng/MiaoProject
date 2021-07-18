@@ -1,3 +1,6 @@
+# Miao Project Build 17 Update Notes
+- 修复了负时间线弹幕导致播放器崩溃的问题
+
 # Miao Project Build 16 Update Notes
 - 修复弹幕属性更新导致的解析错误
 - 修复部分用户点击播放时，解析SIDX出错导致的崩溃问题

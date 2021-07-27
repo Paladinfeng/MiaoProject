@@ -1,3 +1,7 @@
+# Miao Project Build 18 Update Notes
+- 支持显示外挂字幕
+- 允许设置弹幕屏蔽等级
+
 # Miao Project Build 17 Update Notes
 - 修复了负时间线弹幕导致播放器崩溃的问题
 

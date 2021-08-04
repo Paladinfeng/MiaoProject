@@ -1,3 +1,6 @@
+# Miao Project Build 19 Update Notes
+- 修复了部分视频由于没有 Tag 导致数据解析错误的问题
+
 # Miao Project Build 18 Update Notes
 - 支持显示外挂字幕
 - 允许设置弹幕屏蔽等级

@@ -1,3 +1,6 @@
+# Miao Project Build 20 Update Notes
+- 修复了 tvOS 15 Beta 无法加载弹幕的问题，本次修复仅使用其他方法避过了原来问题，网络请求缓慢时可能导致弹幕加载不出或者加载延迟
+
 # Miao Project Build 19 Update Notes
 - 修复了部分视频由于没有 Tag 导致数据解析错误的问题
 

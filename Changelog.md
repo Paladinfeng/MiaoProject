@@ -1,3 +1,7 @@
+# Miao Project Build 21 Update Notes
+- 新增播放页弹幕显示 / 隐藏设置（tvOS 15 限定）
+- 新增播放页倍速播放（tvOS 15 限定）倍速播放可能会导致部分视频画面掉帧，目前还没找到解决方法
+
 # Miao Project Build 20 Update Notes
 - 修复了 tvOS 15 Beta 无法加载弹幕的问题，本次修复仅使用其他方法避过了原来问题，网络请求缓慢时可能导致弹幕加载不出或者加载延迟
 

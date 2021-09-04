@@ -1,3 +1,6 @@
+# Miao Project Build 24 Update Notes
+- 修复番剧由于不支持的音源，导致无法快进的问题
+
 # Miao Project Build 23 Update Notes
 - 修复「设置」-「仅加载最高分辨率」会将番剧清晰度锁死在最低的问题
 

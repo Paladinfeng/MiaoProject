@@ -1,3 +1,6 @@
+# Miao Project Build 23 Update Notes
+- 修复「设置」-「仅加载最高分辨率」会将番剧清晰度锁死在最低的问题
+
 # Miao Project Build 22 Update Notes
 - 新增「设置」-「仅加载最高分辨率」，本设置是为了处理即使带宽足够，播放器也会降低分辨率的情况，请用户根据自己的情况自行开启
 - 更新 App 内的「使用说明」

@@ -1,3 +1,7 @@
+# Miao Project Build 25 Update Notes
+- 让大家久等了，本次更新「番剧」模块终于上线了
+- 修复了「热门」中无法正确进入番剧详情页的问题
+
 # Miao Project Build 24 Update Notes
 - 修复番剧由于不支持的音源，导致无法快进的问题
 

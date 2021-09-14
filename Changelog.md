@@ -1,5 +1,9 @@
-# Miao Project Build 27 Update Notes
+# Miao Project Build 28 Update Notes
 - 修复了海外用户无法正确加载过滤CDN的问题
+- 更新「我的追番」的使用说明
+
+# Miao Project Build 27 Update Notes
+- 已撤回
 
 # Miao Project Build 26 Update Notes
 - 新增「我的追剧」，入口是和「我的追番」同一个页面

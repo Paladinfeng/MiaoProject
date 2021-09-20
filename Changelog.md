@@ -1,3 +1,9 @@
+# Miao Project Build 29 Update Notes
+- UP 主详情页，新增按播放数量排序
+- 弹幕字号允许设置为 42 pt
+- 修复了「动态」、「历史记录」中可能出现的数据解析错误
+- 修复了登录后，动态栏出现在错误的位置
+
 # Miao Project Build 28 Update Notes
 - 修复了海外用户无法正确加载过滤CDN的问题
 - 更新「我的追番」的使用说明

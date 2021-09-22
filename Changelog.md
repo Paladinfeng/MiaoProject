@@ -1,3 +1,9 @@
+# Miao Project Build 30 Update Notes
+- 视频资源的CDN选择切换为黑名单模式
+- 超长番剧允许直接展开所有剧集
+- 修复了番剧页面非番剧的 Banner 进入报错的问题
+- 隐藏搜索页出现的查看全部按钮（功能未支持）
+
 # Miao Project Build 29 Update Notes
 - UP 主详情页，新增按播放数量排序
 - 弹幕字号允许设置为 42 pt

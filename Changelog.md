@@ -1,3 +1,7 @@
+# Miao Project Build 31 Update Notes
+- 支持观看直播，直播弹幕的功能还在制作中
+- 允许查看关注UP主的直播状态，这是第一个直播版本的唯一入口
+
 # Miao Project Build 30 Update Notes
 - 视频资源的CDN选择切换为黑名单模式
 - 超长番剧允许直接展开所有剧集

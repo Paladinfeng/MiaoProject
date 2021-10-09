@@ -35,6 +35,7 @@
 - 关注 / 关注列表
 - 外挂字幕
 - 根据权重屏蔽弹幕
+- 直播
 
 ### 后续开发计划
 - 分区 以及 分区详情（还在设计中）
@@ -44,6 +45,7 @@
 ### 项目预览
 ![Imgur](https://i.imgur.com/oSLTmUd.jpg?1)
 ![Imgur](https://i.imgur.com/0JnXlu9.jpg?1)
+![Imgur](https://i.imgur.com/foIhayW.jpg?1)
 ![Imgur](https://i.imgur.com/htKrYHs.jpg?1)
 ![Imgur](https://i.imgur.com/7CmE93q.jpg?1)
 ![Imgur](https://i.imgur.com/QRn6YHv.jpg?1)

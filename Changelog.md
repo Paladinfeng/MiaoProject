@@ -1,3 +1,9 @@
+# Miao Project Build 32 Update Notes
+- 新增 UGC 视频分段章节
+- 新增直播弹幕
+- 新增直播页弹幕显示 / 隐藏设置（tvOS 15 限定）
+- 修复了直播页退出之后声音延迟释放的问题
+
 # Miao Project Build 31 Update Notes
 - 支持观看直播，直播弹幕的功能还在制作中
 - 允许查看关注UP主的直播状态，这是第一个直播版本的唯一入口

@@ -1,3 +1,9 @@
+# Miao Project Build 33 Update Notes
+- 新增「设置」-「弹幕显示区域」
+- 拓展弹幕不透明的选择范围
+- 修复了弹幕重叠的问题
+- 添加章节的封面占位图
+
 # Miao Project Build 32 Update Notes
 - 新增 UGC 视频分段章节
 - 新增直播弹幕

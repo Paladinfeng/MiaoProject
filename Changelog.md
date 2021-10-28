@@ -1,3 +1,8 @@
+# Miao Project Build 34 Update Notes
+- 可能改善了 HLS 降低分辨率的情况
+- 修复了由于 SIDX 无法加载，导致视频一直在 Loading 的问题
+- 播放器现在可以正确匹配视频帧率（仅限支持的帧率），播放开始/结束时，出现黑屏时正常情况
+
 # Miao Project Build 33 Update Notes
 - 新增「设置」-「弹幕显示区域」
 - 拓展弹幕不透明的选择范围

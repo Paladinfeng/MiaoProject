@@ -1,3 +1,6 @@
+# Miao Project Build 35 Update Notes
+- 这次应该真的修复了码率降低之后不升高的问题
+
 # Miao Project Build 34 Update Notes
 - 可能改善了 HLS 降低分辨率的情况
 - 修复了由于 SIDX 无法加载，导致视频一直在 Loading 的问题

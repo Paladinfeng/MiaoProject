@@ -1,3 +1,6 @@
+# Miao Project Build 36 Update Notes
+- 修复了音频切片信息错误导致无法播放的问题
+
 # Miao Project Build 35 Update Notes
 - 这次应该真的修复了码率降低之后不升高的问题
 

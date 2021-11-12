@@ -6,7 +6,7 @@
 当初买 Apple TV 主要是看 Youtube 和 Netflix，想看 B 站我也没找到其他的渠道，如果要看 B 站就只能切到 Android TV 那边，后来 Android TV 上弹幕版本的 B 站也不更新了，也没办法选 4K 的画质，最后迫于无奈只能自己写一个😭，真正的用爱发电了
 
 ### 加入测试（请按照使用说明中的方法正确激活）
-- **[TestFlight 测试链接出了点问题，待更新](https://testflight.apple.com/join/h9SFKFL8)**
+- **[TestFlight (Update: 2021/11/12)](https://testflight.apple.com/join/MuMvoZyv)**
 - **[Telegram](https://t.me/joinchat/Pw06bVow1gkwNDg1)**
 
 ### 特别说明：经测试，Miao Project 在 tvOS 15 Beta 上播放出现问题，**刚需用户请不要更新测试版系统**，问题会继续跟进，但是只能反馈给苹果等待修复，因此无法保证修 Bug 的时效性

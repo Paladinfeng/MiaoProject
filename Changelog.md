@@ -1,3 +1,7 @@
+# Miao Project Build 40 Update Notes
+- 新增直播搜索功能
+- 新增直播清晰度选择功能，最高画质卡顿的功能，可自行降低画质
+
 # Miao Project Build 36 Update Notes
 - 修复了音频切片信息错误导致无法播放的问题
 

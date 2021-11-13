@@ -9,8 +9,6 @@
 - **[TestFlight (Update: 2021/11/12)](https://testflight.apple.com/join/MuMvoZyv)**
 - **[Telegram](https://t.me/joinchat/Pw06bVow1gkwNDg1)**
 
-### 特别说明：经测试，Miao Project 在 tvOS 15 Beta 上播放出现问题，**刚需用户请不要更新测试版系统**，问题会继续跟进，但是只能反馈给苹果等待修复，因此无法保证修 Bug 的时效性
-
 ### 使用说明
 - 请根据自己的需求理性加入测试，避免浪费测试名额，只加入测试但是长期不使用的用户可能会被清理
 - **[Guide](https://github.com/Paladinfeng/MiaoProject/blob/master/HOW-TO-USE.md)**

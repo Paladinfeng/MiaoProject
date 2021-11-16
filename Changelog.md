@@ -1,3 +1,6 @@
+# Miao Project Build 41 Update Notes
+- 更新 Top Shelf，并支持深色模式
+
 # Miao Project Build 40 Update Notes
 - 新增直播搜索功能
 - 新增直播清晰度选择功能，最高画质卡顿的用户，可自行降低画质

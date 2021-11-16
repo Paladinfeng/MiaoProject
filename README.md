@@ -1,4 +1,5 @@
-# Miao Project Issues
+# Miao Project
+![Banner](https://raw.githubusercontent.com/Paladinfeng/MiaoProject/master/images/Miao-banner.png)
 > 本仓库为收集 Miao Project 在使用过程中遇到的问题
 
 ## Miao Project 为 Bilibili 在 tvOS 上的第三方的客户端
@@ -12,6 +13,9 @@
 ### 使用说明
 - 请根据自己的需求理性加入测试，避免浪费测试名额，只加入测试但是长期不使用的用户可能会被清理
 - **[Guide](https://github.com/Paladinfeng/MiaoProject/blob/master/HOW-TO-USE.md)**
+
+### Contributor
+- Top Shelf Designed By **Allen**
 
 ### 目前主要功能已经开发完成
 - 首页推荐
@@ -41,9 +45,10 @@
 - ......
 
 ### 项目预览
-![Imgur](https://i.imgur.com/oSLTmUd.jpg?1)
-![Imgur](https://i.imgur.com/0JnXlu9.jpg?1)
-![Imgur](https://i.imgur.com/foIhayW.jpg?1)
-![Imgur](https://i.imgur.com/htKrYHs.jpg?1)
-![Imgur](https://i.imgur.com/7CmE93q.jpg?1)
-![Imgur](https://i.imgur.com/QRn6YHv.jpg?1)
+![Screen Shot](https://raw.githubusercontent.com/Paladinfeng/MiaoProject/master/images/Miao-1.png)
+![Screen Shot](https://raw.githubusercontent.com/Paladinfeng/MiaoProject/master/images/Miao-2.png)
+![Screen Shot](https://raw.githubusercontent.com/Paladinfeng/MiaoProject/master/images/Miao-3.png)
+![Screen Shot](https://raw.githubusercontent.com/Paladinfeng/MiaoProject/master/images/Miao-5.png)
+![Screen Shot](https://raw.githubusercontent.com/Paladinfeng/MiaoProject/master/images/Miao-6.png)
+![Screen Shot](https://raw.githubusercontent.com/Paladinfeng/MiaoProject/master/images/Miao-4.png)
+![Screen Shot](https://raw.githubusercontent.com/Paladinfeng/MiaoProject/master/images/Miao-7.png)

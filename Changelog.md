@@ -1,3 +1,6 @@
+# Miao Project Build 44 Update Notes
+- 修复了直播弹幕开关消失的问题
+
 # Miao Project Build 43 Update Notes
 - 修复了排行榜科技区部分数据解析错误
 

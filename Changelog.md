@@ -1,3 +1,11 @@
+# Miao Project Build 42 Update Notes
+- 项目贡献者可以使用 Mod 组的特殊角标
+- 自动去除输入的激活码里所有的空格
+- 优化了弹幕的生成效率
+- 修复了部分视频详情中包含未上映番剧导致无法打开的问题
+- 修复了未上映番剧封面不显示的问题
+- 修复了 AI 生成的中文字幕无法自动选中的问题
+
 # Miao Project Build 41 Update Notes
 - 更新 Top Shelf，并支持深色模式
 

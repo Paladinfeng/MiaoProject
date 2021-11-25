@@ -1,3 +1,6 @@
+# Miao Project Build 43 Update Notes
+- 修复了排行榜科技区部分数据解析错误
+
 # Miao Project Build 42 Update Notes
 - 项目贡献者可以使用 Mod 组的特殊角标
 - 自动去除输入的激活码里所有的空格

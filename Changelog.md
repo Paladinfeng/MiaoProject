@@ -1,3 +1,9 @@
+# Miao Project Build 45 Update Notes
+- 推荐页可以显示直播内容
+- 更新收藏接口，并支持了收藏订阅功能
+- 修复了收藏夹中的番剧不显示的问题
+- 修复了搜索功能在某些情况下数据解析错误
+
 # Miao Project Build 44 Update Notes
 - 修复了直播弹幕开关消失的问题
 

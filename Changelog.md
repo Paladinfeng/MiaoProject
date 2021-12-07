@@ -1,3 +1,8 @@
+# Miao Project Build 46 Update Notes
+- 支持8K分辨率视频播放
+- 更新番剧接口，现在部分番剧支持4K分辨率啦！
+- 移除「首选分辨率」设置
+
 # Miao Project Build 45 Update Notes
 - 推荐页可以显示直播内容
 - 更新收藏接口，并支持了收藏订阅功能

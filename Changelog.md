@@ -1,3 +1,6 @@
+# Miao Project Build 47 Update Notes
+- 更新屏蔽的 CDN 列表，屏蔽 szbdyd
+
 # Miao Project Build 46 Update Notes
 - 支持8K分辨率视频播放
 - 更新番剧接口，现在部分番剧支持4K分辨率啦！

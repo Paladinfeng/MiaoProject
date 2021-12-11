@@ -1,3 +1,6 @@
+# Miao Project Build 48 Update Notes
+- 移除关于 CDN 的屏蔽，因为部分地区的用户只能收到 szbdyd 的播放链接，屏蔽之后无法正常播放
+
 # Miao Project Build 47 Update Notes
 - 更新屏蔽的 CDN 列表，屏蔽 szbdyd
 

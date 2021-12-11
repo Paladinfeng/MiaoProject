@@ -38,6 +38,9 @@
 - 外挂字幕
 - 根据权重屏蔽弹幕
 - 直播 / 弹幕 / 醒目留言
+- 支持杜比视界（Dolby Vision 8.4 + HLG 或者 Dolby Vision 5 + PQ）
+- 支持杜比全景声（Dolby Digital Plus with Dolby Atmos）
+- 匹配动态范围和帧率
 
 ### 后续开发计划
 - 分区 以及 分区详情（还在设计中）

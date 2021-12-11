@@ -1,3 +1,11 @@
+# Miao Project Build 49 Update Notes
+- 支持杜比视界（Dolby Vision 8.4 + HLG 或者 Dolby Vision 5 + PQ）
+- 支持杜比全景声（Dolby Digital Plus with Dolby Atmos）
+- 现在可以正确匹配视频的动态范围和帧率了
+- 新增「加载杜比视界」设置
+
+## 了解更多信息请查看：https://github.com/Paladinfeng/MiaoProject
+
 # Miao Project Build 48 Update Notes
 - 移除关于 CDN 的屏蔽，因为部分地区的用户只能收到 szbdyd 的播放链接，屏蔽之后无法正常播放
 

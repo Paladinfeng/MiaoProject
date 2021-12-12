@@ -1,3 +1,7 @@
+# Miao Project Build 50 Update Notes
+- 新增「仅加载HEVC」选项，开启后只会加载HEVC（H265）资源，相同画质下，占用的带宽会降低一半左右
+- 也许现在 Dolby Atmos 可以点亮图标了，未经过测试
+
 # Miao Project Build 49 Update Notes
 - 支持杜比视界（Dolby Vision 8.4 + HLG 或者 Dolby Vision 5 + PQ）
 - 支持杜比全景声（Dolby Digital Plus with Dolby Atmos）

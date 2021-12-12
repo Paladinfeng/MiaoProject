@@ -43,7 +43,10 @@
 1. 设置里有「加载杜比视界」的选择，用户可以自行决定是否开启
 2. 开启杜比视界后，可能会出现不支持的编码，导致视频无法播放
 3. 目前支持的杜比视界编码 Dolby Vision 8.4（hvc1） + HLG 或者 Dolby Vision 5（dvh1） + PQ
-4. 目前支持的杜比全景声编码 Dolby Digital Plus with Dolby Atmos（ec-3）
+4. Dolby Vision 8.4 是B站能上传的常见的杜比视界版本，这种版本在 tvOS 上只能激活 HDR10
+5. Dolby Vision 5 是电影中常见的杜比视界版本，可以正常的激活电视上的杜比视界，在B站上只有极个别测试视频采用的这种格式，而且可能并不能正常打开，这都是正常情况
+6. 目前支持的杜比全景声编码 Dolby Digital Plus with Dolby Atmos（ec-3），Dolby Atmos 还在调整参数，现在可能只能显示 Dolby Digital Plus
+7. 市面上的电视不同，各种设置也不同，我能测试的也只是我本地的设备，至于能否开启杜比视界 / 杜比全景声，请不要太纠结
 
 ## 关于匹配动态范围和帧率
 1. 匹配动态范围和帧率在系统设置中

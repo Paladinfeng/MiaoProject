@@ -1,3 +1,6 @@
+# Miao Project Build 51 Update Notes
+- 「仅加载HEVC」修改为「优先加载HEVC」策略，并修复了某些资源没有压制HEVC导致视频无法播放的问题
+
 # Miao Project Build 50 Update Notes
 - 新增「仅加载HEVC」选项，开启后只会加载HEVC（H265）资源，相同画质下，占用的带宽会降低一半左右
 - 也许现在 Dolby Atmos 可以点亮图标了，未经过测试

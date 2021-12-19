@@ -1,3 +1,7 @@
+# Miao Project Build 52 Update Notes
+- 也许优化了 Apple TV HD 的播放体验，未经过测试
+- 修复了某些视频播放过程中，无法退出页面，遥控器失去响应的问题
+
 # Miao Project Build 51 Update Notes
 - 「仅加载HEVC」修改为「优先加载HEVC」策略，并修复了某些资源没有压制HEVC导致视频无法播放的问题
 

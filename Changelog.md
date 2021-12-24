@@ -1,3 +1,7 @@
+# Miao Project Build 53 Update Notes
+- 修复了收藏夹「查看全部」按钮无法显示的问题
+- 修复了某些剧集缺少数据，导致追剧列表报错的问题
+
 # Miao Project Build 52 Update Notes
 - 也许优化了 Apple TV HD 的播放体验，未经过测试
 - 修复了某些视频播放过程中，无法退出页面，遥控器失去响应的问题

@@ -23,6 +23,7 @@
 - 目前采用的是 原生播放器 + HLS 的方案，所以实现了自动分辨率的效果，可以理解成和 Netflix 是一样的效果
 - 播放器会根据 HLS 中的带宽限制，自动切换视频流，具体限制多少带宽，是 API 返回的参数
 - 开启**仅加载最高分辨率**后，强制加载最高分辨率
+- 显示播放器详细信息（码率，分辨率）：https://www.howtogeek.com/409201/how-to-unlock-detailed-streaming-statistics-on-the-apple-tv/
 
 ## 关于直播
 - Build 31 之后已经支持了直播功能

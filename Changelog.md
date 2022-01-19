@@ -1,3 +1,8 @@
+# Miao Project Build 54 Update Notes
+- 重构播放资源加载流程
+- 新增番剧自动播放下一集
+- 修复了播放界面Loading过程中无法退出的问题
+
 # Miao Project Build 53 Update Notes
 - 修复了收藏夹「查看全部」按钮无法显示的问题
 - 修复了某些剧集缺少数据，导致追剧列表报错的问题

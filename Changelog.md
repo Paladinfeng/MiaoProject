@@ -1,3 +1,7 @@
+# Miao Project Build 55 Update Notes
+- 新增「番剧连续播放」开关设置
+- 修复番剧连续播放，手动点击播放后，自动退出的问题
+
 # Miao Project Build 54 Update Notes
 - 重构播放资源加载流程
 - 新增番剧自动播放下一集

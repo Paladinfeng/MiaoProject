@@ -21,10 +21,11 @@
 
 ## 如果出现频繁黑屏Loading，无法正常播放，请尝试下列方法
 1. Apple TV 连接手机热点，测试能否顺利播放
-2. 尝试只连，不要经过软路由
+2. 尝试直连，不要经过软路由
 3. 关闭软路由中的代理程序
-4. 使用OpenClash的话，可以尝试改到fake-ip模式
-5. 命令行中使用dig命令测试下列两个域名`dig szbdyd.com`, `dig mcdn.bilivideo.cn`，看一下 DNS 服务器能否正确返回 IP 地址
+4. 关闭广告屏蔽类插件
+5. 使用 OpenClash 的话，可以尝试改到 fake-ip 模式
+6. 命令行中使用dig命令测试下列两个域名`dig szbdyd.com`, `dig mcdn.bilivideo.cn`，看一下 DNS 服务器能否正确返回 IP 地址
 
 ## 播放过程中出现断流，一直 loading 无法继续播放
 - 退出视频重开吧，不要一直等待了，目前还不知道为什么播放链接出现断连，会继续追查这个问题

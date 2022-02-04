@@ -1,3 +1,7 @@
+# Miao Project Build 57 Update Notes
+- 新增：显示具体播放错误
+- 修复：播放资源502报错，可能导致应用崩溃的问题
+
 # Miao Project Build 56 Update Notes
 - 新增：设置页面显示版本信息
 - 修复：番剧自动播放导致弹幕开关失效的问题

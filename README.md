@@ -8,7 +8,7 @@
 ### 加入测试（请按照使用说明中的方法正确激活）
 - **注意：请不要因为本项目购入 Apple TV**
 - **[TestFlight (Update: 2021/11/12)](https://testflight.apple.com/join/MuMvoZyv)**
-- **[Telegram](https://t.me/joinchat/Pw06bVow1gkwNDg1)**
+- **[Telegram](https://t.me/miaoproject)**
 
 ### 使用说明
 - 请根据自己的需求理性加入测试，避免浪费测试名额，只加入测试但是长期不使用的用户可能会被清理

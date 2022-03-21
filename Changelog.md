@@ -1,3 +1,6 @@
+# Miao Project Build 64 Update Notes
+- 修复：动态页加载更多，可能发生崩溃
+
 # Miao Project Build 63 Update Notes
 - 修复：更新 tvOS 15.4 后，列表无法流畅滑动的问题
 - 新增：设置 -「过滤超过60帧的视频」，开启后可能会改善某些视频丢帧导致无法正常观看的问题，请仔细阅读说明和副作用，仅建议有此问题的用户自行尝试

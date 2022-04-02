@@ -41,6 +41,8 @@
 - 支持杜比视界（Dolby Vision 8.4 + HLG 或者 Dolby Vision 5 + PQ）
 - 支持杜比全景声（Dolby Digital Plus with Dolby Atmos）
 - 匹配动态范围和帧率
+- 多账户系统，最多添加5个Profile
+- iCloud 同步
 
 ### 后续开发计划
 - 分区 以及 分区详情（还在设计中）
@@ -55,3 +57,4 @@
 ![Screen Shot](https://raw.githubusercontent.com/Paladinfeng/MiaoProject/master/images/Miao-6.png)
 ![Screen Shot](https://raw.githubusercontent.com/Paladinfeng/MiaoProject/master/images/Miao-4.png)
 ![Screen Shot](https://raw.githubusercontent.com/Paladinfeng/MiaoProject/master/images/Miao-7.png)
+![Screen Shot](https://raw.githubusercontent.com/Paladinfeng/MiaoProject/master/images/Miao-8.png)

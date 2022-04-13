@@ -1,11 +1,21 @@
+# Miao Project Build 67 Update Notes
+- 新增：番剧详情页显示剧集是否需要会员等额外信息
+- 新增：视频详情页，相关推荐，提供多种弹出方式
+- 新增：「我的追番」入口
+- 优化：调整「切换账户」的位置
+- 修复：某些个人页面可能会引发崩溃
+- 修复：列表页刷新的时候，可能产生多余的跳动
+- 修复：「我的」页面，从下级页面返回，丢失选中效果
+
+# Miao Project Build 66 Update Notes
+- 修复：某些用户登陆闪退的问题
+
 # Miao Project Build 65 Update Notes
 - 注意⚠️：本次更新会清空激活状态 / 个人设置 / 账户信息，用户需要重新激活登陆
 - 新增：多账户系统，并且支持iCloud同步，最多添加5个Profile
 - 新增：通过iCloud同步设置信息
 - 新增：通过iCloud同步 App 激活状态
 - 修复：「我的」页面可能发生奔溃的问题
-
-## 了解更多信息请查看：https://github.com/Paladinfeng/MiaoProject
 
 # Miao Project Build 64 Update Notes
 - 修复：动态页加载更多，可能发生崩溃

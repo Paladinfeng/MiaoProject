@@ -2,9 +2,6 @@
 ![Banner](https://raw.githubusercontent.com/Paladinfeng/MiaoProject/master/images/Miao-banner.png)
 > 本仓库为收集 Miao Project 在使用过程中遇到的问题
 
-## Miao Project 为 Bilibili 在 tvOS 上的第三方的客户端
-当初买 Apple TV 主要是看 Youtube 和 Netflix，想看 B 站我也没找到其他的渠道，如果要看 B 站就只能切到 Android TV 那边，后来 Android TV 上弹幕版本的 B 站也不更新了，也没办法选 4K 的画质，最后迫于无奈只能自己写一个😭，真正的用爱发电了
-
 ### 加入测试（请按照使用说明中的方法正确激活）
 - **注意：请不要因为本项目购入 Apple TV**
 - **[TestFlight (Update: 2021/11/12)](https://testflight.apple.com/join/MuMvoZyv)**

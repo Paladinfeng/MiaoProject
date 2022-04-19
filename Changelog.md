@@ -1,3 +1,9 @@
+# Miao Project Build 69 Update Notes
+- 更新应用图标和置顶图
+
+# Miao Project Build 68 Update Notes
+- 修复：某些用户硬币数超过上限导致崩溃
+
 # Miao Project Build 67 Update Notes
 - 新增：番剧详情页显示剧集是否需要会员等额外信息
 - 新增：视频详情页，相关推荐，提供多种弹出方式

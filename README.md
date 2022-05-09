@@ -2,9 +2,9 @@
 ![Banner](https://raw.githubusercontent.com/Paladinfeng/MiaoProject/master/images/Miao-banner.png)
 > 本仓库为收集 Miao Project 在使用过程中遇到的问题
 
-### 加入测试（请按照使用说明中的方法正确激活）
-- **注意：请不要因为本项目购入 Apple TV**
-- **[TestFlight (Update: 2021/11/12)](https://testflight.apple.com/join/MuMvoZyv)**
+### 注意：请不要因为本项目购入 Apple TV
+
+### 测试已停止
 - **[Telegram](https://t.me/miaoproject)**
 
 ### 使用说明

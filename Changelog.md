@@ -1,3 +1,11 @@
+# Miao Project Version 1.1.1 Update Notes
+- 新增：影视推荐
+- 新增：错误重试页面
+- 优化：更新番剧推荐接口
+- 优化：弹幕速度调节
+- 实验室：全局倍速播放
+- 实验室：匹配动态范围和帧率
+
 # Miao Project Version 1.1 Update Notes
 - 新增：详情页视频合集
 - 新增：播放页面，查看视频调试信息

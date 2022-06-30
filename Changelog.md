@@ -1,3 +1,13 @@
+# Miao Project Version 1.1.3 Update Notes
+- 新增：自动刷新机制
+- 新增：港澳台番剧特殊标记
+- 优化：播放链接选择器
+- 优化：5秒内的播放记录，不会触发「继续播放」
+- 修复：视频详情页 - 推荐视频，点击后页面滚动问题
+
+# Miao Project Version 1.1.2 Update Notes
+- 修复：无法观看直播
+
 # Miao Project Version 1.1.1 Update Notes
 - 新增：影视推荐
 - 新增：错误重试页面

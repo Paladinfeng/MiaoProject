@@ -5,7 +5,8 @@
 ### 注意：请不要因为本项目购入 Apple TV
 
 ### 测试已停止
-- **[Telegram](https://t.me/miaoproject)**
+- **[Telegram 聊天交流群](https://t.me/miaoproject)**
+- **[Telegram 更新通知频道](https://t.me/miaorelease)**
 
 ### 使用说明
 - 请根据自己的需求理性加入测试，避免浪费测试名额，只加入测试但是长期不使用的用户可能会被清理

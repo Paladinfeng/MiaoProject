@@ -1,3 +1,10 @@
+# Miao Project Version 1.1.4 Update Notes
+- 新增：flv直播播放器
+- 优化：不再默认选择AI生成的字幕
+- 优化：默认在支持HEVC硬解设备上开启HEVC优先设置
+- 修复：杜比视界部分编码无法打开
+- 实验室：播放链接优化（播放链接预解析 / 播放链接重写）
+
 # Miao Project Version 1.1.3 Update Notes
 - 新增：自动刷新机制
 - 新增：港澳台番剧特殊标记

@@ -1,3 +1,22 @@
+# Miao Project Version 2.0.0 Update Notes
+- 新增：重新开放激活通道，新激活通道允许6个iCloud调用激活
+
+# Miao Project Version 1.1.6 Update Notes
+- 新增：暂时关闭激活入口
+- 新增：部分番剧支持跳过OP/ED
+- 优化：大幅减少程序需要的内存占用
+- 修复：视频详情页继续播放可能发生崩溃
+
+# Miao Project Version 1.1.5 Update Notes
+- 新增：FLAC音频支持
+- 新增：二维码分享
+- 优化：视频点击继续播放
+- 修复：视频记录不显示已完成
+- 修复：竖屏直播画面出现裁切
+- 修复：tvOS 16 详情页推荐点击闪退
+- 修复：tvOS 16 详情页简介内容越界
+- 修复：tvOS 16.1 播放报错
+
 # Miao Project Version 1.1.4 Update Notes
 - 新增：flv直播播放器
 - 优化：不再默认选择AI生成的字幕

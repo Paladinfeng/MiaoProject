@@ -1,3 +1,15 @@
+# Miao Project Version 2.0.2 Update Notes
+- 新增：兼容 HDR 格式
+- 新增：「设置」- 播放链接主CDN优先模式
+- 优化：缩略图清晰度
+- 修复：由于系统 BUG，tvOS 16 连接 HomePod 时，倍速功能将失效
+
+# Miao Project Version 2.0.1 Update Notes
+- 新增：登陆页进度提示
+- 修复：新注册用户无法登陆的问题
+- 修复：多用户多设备切换时同步数据导致冲突，改为本地保存选中的用户
+- 修复：番剧未开播，点击播放导致崩溃
+
 # Miao Project Version 2.0.0 Update Notes
 - 新增：重新开放激活通道，新激活通道允许6个iCloud调用激活
 

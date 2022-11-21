@@ -1,3 +1,10 @@
+# Miao Project Version 2.0.3 Update Notes
+- 新增：播放进度缩略图
+- 修复：NowPlaying 停在0秒的问题
+- 优化：视频加载速度
+- 优化：修改视频缓冲策略
+- 优化：默认开启「主CDN优先加载」
+
 # Miao Project Version 2.0.2 Update Notes
 - 新增：兼容 HDR 格式
 - 新增：「设置」- 播放链接主CDN优先模式

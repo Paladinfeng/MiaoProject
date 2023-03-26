@@ -1,3 +1,7 @@
+# Miao Project Version 2.1.1 Update Notes
+- 紧急修复：扫码登录手机端无法点击确认
+- 修复：「过滤超过60帧的视频」导致视频无法播放
+
 # Miao Project Version 2.1.0 Update Notes
 - 新增：更换新 icon
 - 新增：更换新的置顶图

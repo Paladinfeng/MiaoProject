@@ -1,3 +1,9 @@
+# Miao Project Version 2.1.2 Update Notes
+- 新增：App Icon 切换
+- 修复：追番接口变更
+- 修复：某些情况下弹出错误HUD可能导致应用崩溃
+- ⚠️  本次更新将会强制登出所有登录状态，请重新登录
+
 # Miao Project Version 2.1.1 Update Notes
 - 紧急修复：扫码登录手机端无法点击确认
 - 修复：「过滤超过60帧的视频」导致视频无法播放

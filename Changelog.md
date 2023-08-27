@@ -1,3 +1,25 @@
+# Miao Project Version 2.2.0 Update Notes
+- 新增：连续播放
+- 新增：剥离番剧中的预告
+- 新增：设置 - AI字幕默认状态
+- 更新：番剧接口API
+- 更新：登录接口
+- 修复：《古相思曲》这部剧集数是反的，继续播放功能错误
+
+# Miao Project Version 2.1.6 Update Notes
+- 紧急修复：播放链接预解析导致无法播放
+
+# Miao Project Version 2.1.5 Update Notes
+- 修复：搜索报错
+
+# Miao Project Version 2.1.4 Update Notes
+- 修复：刷新回弹问题
+
+# Miao Project Version 2.1.3 Update Notes
+- 修复：tvOS 16 以下的用户，网络请求可能会出现API校验错误
+- 修复：请求鉴权失败，将删除全部的登录信息，请重新登录
+- 修复：番剧更新为新的banner类型
+
 # Miao Project Version 2.1.2 Update Notes
 - 新增：App Icon 切换
 - 修复：追番接口变更

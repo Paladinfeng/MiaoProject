@@ -1,3 +1,50 @@
+# Miao Project Version 2.2.11 Update Notes
+- 修复：动态页面报错
+
+# Miao Project Version 2.2.10 Update Notes
+- 修复：无直播弹幕
+
+# Miao Project Version 2.2.9 Update Notes
+- 优化：凭证页面以及激活报错页面无法显示完整ID
+- 优化：视频分享采用匿名链接
+- 优化：历史记录以及收藏夹刷新模式
+- 修复：部分地区进入直播后黑屏
+- 修复：由于音频播放链接不可用导致整个视频无法播放
+
+# Miao Project Version 2.2.8 Update Notes
+- 优化：帧率匹配模式
+- 修复： HEVC优先导致部分视频最高分辨率丢失
+- 修复：部分本来可以打开的番剧Banner报错类型不支持
+
+# Miao Project Version 2.2.7 Update Notes
+- 修复：搜索报错
+
+# Miao Project Version 2.2.6 Update Notes
+- 修复：tvOS 17.2 下 App 闪退的问题
+
+# Miao Project Version 2.2.5 Update Notes
+- 新增：仅 HDR/DV 的时候开启匹配内容
+- 新增：关闭匹配的状态下，不再获取杜比视界 / HDR 的视频源
+- 修复：tvOS 17 置顶图片
+- 修复：iCloud 环境在 tvOS 17 显示未知
+
+# Miao Project Version 2.2.4 Update Notes
+- 新增：播放报错收集机制
+- 新增：使用 Sentry 收集 App 的崩溃日志
+- 修复：直播弹幕在某些情况下不显示
+- 修复：视频播放结束时可能发生的崩溃问题
+
+# Miao Project Version 2.2.3 Update Notes
+- 新增：设置 - 连续播放提示信息
+- 修复：直播弹幕异常
+- 修复：播放时可能发生的崩溃
+
+# Miao Project Version 2.2.2 Update Notes
+- 修复：镜像功能在 tvOS 16 上不起作用
+- 修复：显示隐藏「动态」时，App 可能会发生崩溃
+- 修复：修改播放速率可能导致 App 崩溃
+- 修复：读取 iCloud 数据可能导致 App 崩溃
+
 # Miao Project Version 2.2.1 Update Notes
 - 新增：视频镜像（播放页面单次开启）
 - 优化：激活报错中关于凭证的错误信息

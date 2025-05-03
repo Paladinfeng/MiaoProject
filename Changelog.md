@@ -1,3 +1,34 @@
+# Miao Project Version 2.3.2 Update Notes
+- 修复：直播报错352
+- 修复：排行榜不刷新
+
+# Miao Project Version 2.3.1 Update Notes
+- 修复：视频字幕显示错乱
+- 修复：屏蔽视频字幕中的广告
+- 修复：港澳台番剧无法加载视频字幕
+- 修复：部份弹幕屏蔽词没有生效
+- 修复：番剧页面，banner图片比例
+- 修复：历史记录触发重复请求
+- 优化：直播播放器
+
+# Miao Project Version 2.3.0 Update Notes
+- 新增：弹幕屏蔽器（自动同步屏蔽词）
+- 修复：某些情况下视频播放完成可能会发生闪退
+
+# Miao Project Version 2.2.13 Update Notes
+- 新增：视频单集循环
+- 修复：推荐页面充电视频无法打开
+- 修复：账号列表中出现空白账号的问题
+- 修复：部分直播间黑屏无法播放
+- 修复：部分视频播放报错
+- 修复：由于某脚本重写网络请求，导致动态页面报错
+- 修复：历史记录加载更多时滑动到列表最上端
+
+# Miao Project Version 2.2.12 Update Notes
+- 优化：直播播放体验
+- 优化：进入后台15分钟后，刷新「热门」/「排行榜」/「动态」数据
+- 修复：动态页面直播的UP主显示不全
+
 # Miao Project Version 2.2.11 Update Notes
 - 修复：动态页面报错
 

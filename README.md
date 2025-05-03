@@ -4,11 +4,8 @@
 
 ### 注意：请不要因为本项目购入 Apple TV
 
-# 测试已停止
-
-### 使用说明
-- 请根据自己的需求理性加入测试，避免浪费测试名额，只加入测试但是长期不使用的用户可能会被清理
-- **[Guide](https://github.com/Paladinfeng/MiaoProject/blob/master/HOW-TO-USE.md)**
+- **[使用说明](https://github.com/Paladinfeng/MiaoProject/blob/master/HOW-TO-USE.md)**
+- **[激活说明](https://paladinfeng.notion.site/140462eaa3134ff68909102cb2b37e32)**
 
 ### Contributor
 - Top Shelf Designed By **Allen**
@@ -39,11 +36,6 @@
 - 匹配动态范围和帧率
 - 多账户系统，最多添加5个Profile
 - iCloud 同步
-
-### 后续开发计划
-- 分区 以及 分区详情（还在设计中）
-- 账号密码登录
-- ......
 
 ### 项目预览
 ![Screen Shot](https://raw.githubusercontent.com/Paladinfeng/MiaoProject/master/images/Miao-1.png)

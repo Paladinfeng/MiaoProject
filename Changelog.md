@@ -1,3 +1,18 @@
+# Miao Project Version 2.4.0 Update Notes
+- 新增：视频广告自动跳过/视频广告屏蔽器（默认关闭，需要在设置中手动开启）
+- 优化：自动跳过番剧片头片尾
+- 更新：直播播放器
+- 修复：登录过期的判断条件
+- 修复：播放时数据解析可能导致崩溃
+
+# Miao Project Version 2.3.4 Update Notes
+- 新增：番剧支持 HDR（需要在设置中手动开启）
+
+# Miao Project Version 2.3.3 Update Notes
+- 修复：直播报错352
+- 优化：视频字幕黑名单
+- 优化：直播播放器
+
 # Miao Project Version 2.3.2 Update Notes
 - 修复：直播报错352
 - 修复：排行榜不刷新

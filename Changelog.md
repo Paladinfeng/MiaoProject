@@ -1,3 +1,9 @@
+# Miao Project Version 2.4.2 Update Notes
+- 修复：某些帐号的用户详情页报错
+- 修复：tvOS 26 下播放器不切换到高码率视频流
+- 修复：不开启设置中的「匹配视频动态范围和帧率」，将输出 SDR 60FPS 信号，如果和系统设置一致，打开视频就不会黑屏切换 HDMI 信号
+- PS：tvOS 26 也许有某些温控策略，设备高温的时候，会限制视频流的码率
+
 # Miao Project Version 2.4.1 Update Notes
 - 新增：设置 - 番剧自动跳过片头片尾
 - 新增：设置 - 直播强制使用VLC播放器

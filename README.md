@@ -1,5 +1,7 @@
 # Miao Project
-![Banner](https://raw.githubusercontent.com/Paladinfeng/MiaoProject/master/images/Miao-banner.png)
+
+![Banner](https://image.paladinfeng.app/2025/12/10ce89413cd3f5f3acd60cf6edb458dc.png)
+
 > 本仓库为收集 Miao Project 在使用过程中遇到的问题
 
 ### 注意：请不要因为本项目购入 Apple TV
@@ -8,13 +10,15 @@
 - **[激活说明](https://paladinfeng.notion.site/140462eaa3134ff68909102cb2b37e32)**
 
 ### Contributor
+
 - Top Shelf Designed By **Allen**
 
 ### 目前主要功能已经开发完成
+
 - 首页推荐
 - 热门（这块儿的 API 是从云视听那边抓来的，顺序可能和手机版不一样）
 - 排行榜
-- 二维码登录（API来自云视听，扫码登录的时候会有提示）
+- 二维码登录（API 来自云视听，扫码登录的时候会有提示）
 - 动态
 - 搜索
 - 历史记录
@@ -34,15 +38,16 @@
 - 支持杜比视界（Dolby Vision 8.4 + HLG 或者 Dolby Vision 5 + PQ）
 - 支持杜比全景声（Dolby Digital Plus with Dolby Atmos）
 - 匹配动态范围和帧率
-- 多账户系统，最多添加5个Profile
+- 多账户系统，最多添加 5 个 Profile
 - iCloud 同步
 
 ### 项目预览
-![Screen Shot](https://raw.githubusercontent.com/Paladinfeng/MiaoProject/master/images/Miao-1.png)
-![Screen Shot](https://raw.githubusercontent.com/Paladinfeng/MiaoProject/master/images/Miao-2.png)
-![Screen Shot](https://raw.githubusercontent.com/Paladinfeng/MiaoProject/master/images/Miao-3.png)
-![Screen Shot](https://raw.githubusercontent.com/Paladinfeng/MiaoProject/master/images/Miao-5.png)
-![Screen Shot](https://raw.githubusercontent.com/Paladinfeng/MiaoProject/master/images/Miao-6.png)
-![Screen Shot](https://raw.githubusercontent.com/Paladinfeng/MiaoProject/master/images/Miao-4.png)
-![Screen Shot](https://raw.githubusercontent.com/Paladinfeng/MiaoProject/master/images/Miao-7.png)
-![Screen Shot](https://raw.githubusercontent.com/Paladinfeng/MiaoProject/master/images/Miao-8.png)
+
+![Screen Shot](https://image.paladinfeng.app/2025/12/e3095b25c63ce9d70ea136aa1de2105b.png)
+![Screen Shot](https://image.paladinfeng.app/2025/12/ebd17df0953e520ebef6323ac8ab8ef4.png)
+![Screen Shot](https://image.paladinfeng.app/2025/12/8ffc9cd3f8b463252e64697dcc73559e.png)
+![Screen Shot](https://image.paladinfeng.app/2025/12/2e1d720a7025fb6166a2917843169131.png)
+![Screen Shot](https://image.paladinfeng.app/2025/12/bfc859efc56da8046051fed82635f3b8.png)
+![Screen Shot](https://image.paladinfeng.app/2025/12/9aefe49234028d2fca5708b56d6e27d6.png)
+![Screen Shot](https://image.paladinfeng.app/2025/12/f4a7419fc7cb858765d105a45c954ca9.png)
+![Screen Shot](https://image.paladinfeng.app/2025/12/9057b4f0542e8170b556f9690375c2a1.png)

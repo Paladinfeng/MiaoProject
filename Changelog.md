@@ -1,3 +1,13 @@
+# Miao Project Version 2.4.4 Update Notes
+- 修复：开启播放链接优化后，PCDN优化失效的问题
+
+# Miao Project Version 2.4.3 Update Notes
+- 新增：Akamai CDN 优先，处理海外用户播放视频卡顿的问题
+- 新增：「匹配动态范围和帧率」 - 「强制 SDR / 59.94 fps」，开启之后，将所有视频信号输出为SDR / 59.94 fps，与系统设置保持一致时，不再会出现黑屏的问题
+- 新增：适配 AI 字幕
+- 更新：视频字幕黑名单
+- 修复：PCDN导致部分用户播放卡顿的问题
+
 # Miao Project Version 2.4.2 Update Notes
 - 修复：某些帐号的用户详情页报错
 - 修复：tvOS 26 下播放器不切换到高码率视频流
